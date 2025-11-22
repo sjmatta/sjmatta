@@ -5,6 +5,7 @@ Application architect in the DC area, working on GenAI and multi-agent systems i
 ## What I work with
 
 **Languages:** Java, Python, JavaScript/TypeScript
+
 **Focus areas:** Multi-agent systems, agentic frameworks, cloud architecture (AWS), enterprise application design
 
 ## What I'm interested in
